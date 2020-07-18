@@ -1,7 +1,8 @@
 .top-container {
   background-color: #e0ebe8;
   position: relative;
-  padding-top: 160px;
+  padding-top: 144px;
+  padding-bottom: 16px;
   margin-bottom: 70px;
 }
 
@@ -29,13 +30,13 @@
 
 
 .myText {
-  font-size: 20px;
+  font-size: 1.5rem;
   font-family: 'Montserrat', sans-serif;
   color: #24a19c;
 }
 
 .description {
-  font-size: 1.5em;
+  font-size: 1.5rem;
   color: #545454;
   font-family: 'EB Garamond', serif;
   margin: 0 auto 50px auto;
@@ -43,11 +44,19 @@
 }
 
 .skillDescription {
-  font-size: 1.5em;
+  font-size: 1.5rem;
   color: #545454;
   font-family: 'EB Garamond', serif;
   margin: 0 auto 0 auto;
   max-width: 500px;
+}
+
+.web_dev{
+  padding-top: 16px;
+}
+
+.imgInternet{
+
 }
 
 a {
@@ -59,7 +68,7 @@ a {
 }
 
 .emailMe {
-  font-size: 1.5em;
+  font-size: 1.5rem;
   color: #45b29a;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -70,7 +79,7 @@ a {
 }
 
 .top-link{
-  font-size: 1em;
+  font-size: 1rem;
   color: #45b29a;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -82,7 +91,7 @@ a {
 }
 
 .footer-link{
-  font-size: 1em;
+  font-size: 1rem;
   color: #45b29a;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -119,7 +128,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 2.5rem;
   color: #45b29a;
   font-family: 'Montserrat', sans-serif;
 }
@@ -137,5 +146,5 @@ h3 {
 .bottom-cloud {
   position: absolute;
   left: 370px;
-  bottom: 300px;
+  bottom: 310px;
 }
