@@ -102,6 +102,15 @@ a {
   color: #29685b;
 }
 
+.rightsName{
+  color: #45b29a;
+  font-family: 'EB Garamond', serif;
+}
+
+.rightsName:hover{
+  color: #29685b;
+}
+
 body {
   margin: 0;
   text-align: center;
